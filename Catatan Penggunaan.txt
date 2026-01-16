@@ -1,0 +1,2 @@
+Untuk file client (Android Studio) adalah ini semua kecuali Folder "inventory (API)".
+Jadi untuk databasenya ada di folder "inventory (API)", ganti namanya menjadi inventory dan masukkan ke dalam web server agar API nya jalan !
